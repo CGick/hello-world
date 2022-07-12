@@ -7,5 +7,7 @@ My first GitHub Repo. Now I made my first commit
 - list
 
 {% note %}
+
 **Note:** this is a test callout note
+
 {% endnote %}
