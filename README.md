@@ -5,3 +5,7 @@ My first GitHub Repo. Now I made my first commit
 - is
 - a
 - list
+
+{% note %}
+**Note:** this is a test callout note
+{% endnote %}
